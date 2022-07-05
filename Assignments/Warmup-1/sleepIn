@@ -7,3 +7,6 @@ function sleepIn(weekday, vacation) {
 
 
 }
+
+let x = sleepIn(true, true);
+console.log(x);
